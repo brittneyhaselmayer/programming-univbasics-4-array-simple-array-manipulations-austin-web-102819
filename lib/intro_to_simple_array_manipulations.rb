@@ -34,4 +34,6 @@ def pop_with_args(array)
    return array.uniq
  end
  
- def using_flatten
+ def using_flatten(array)
+   return array.flatten
+ end
