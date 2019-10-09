@@ -30,4 +30,6 @@ def pop_with_args(array)
    return array.insert(4,element)
  end
  
- def using_uniq()
+ def using_uniq(array)
+   return array.uniq
+ end
