@@ -33,3 +33,5 @@ def pop_with_args(array)
  def using_uniq(array)
    return array.uniq
  end
+ 
+ def 
