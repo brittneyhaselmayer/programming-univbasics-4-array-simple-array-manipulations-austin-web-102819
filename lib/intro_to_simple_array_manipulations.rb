@@ -30,4 +30,4 @@ def pop_with_args(array)
    return array.insert(4,element)
  end
  
- def
+ def using_
